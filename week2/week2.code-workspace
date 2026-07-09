@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "week2",
+			"path": "."
+		},
+		{
+			"name": "ai-twin",
+			"path": "../../ai-twin"
+		}
+	],
+	"settings": {}
+}
