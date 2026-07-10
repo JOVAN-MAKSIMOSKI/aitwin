@@ -39,3 +39,7 @@ Thumbs.db
 
 # AWS
 .aws/
+
+# Local-only scripts and OIDC policy (do not commit)
+scripts/destroy.sh
+terraform/oidc-provider-policy.json
